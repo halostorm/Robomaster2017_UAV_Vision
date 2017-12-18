@@ -1,0 +1,4 @@
+/home/ubuntu/Flight2/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Flight2/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Flight2/build/CMakeFiles/test.dir
+/home/ubuntu/Flight2/build/CMakeFiles/aka.dir
